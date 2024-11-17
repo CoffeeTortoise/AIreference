@@ -1,0 +1,4 @@
+ROWS=30
+COLS=50
+SIZE=32
+TITLE=Assistent
